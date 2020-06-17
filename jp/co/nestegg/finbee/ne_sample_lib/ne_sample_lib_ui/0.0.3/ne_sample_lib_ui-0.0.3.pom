@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.co.nestegg.finbee.ne_sample_lib</groupId>
   <artifactId>ne_sample_lib_ui</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
